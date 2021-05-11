@@ -1,13 +1,13 @@
 # Site settings
 title: K++
-description: 'My cozy nook of the internet'
-url: 'https://kristavan.github.io/'
+description: 'My cozy corner of the internet.'
+url: 'https://kristaboone.github.io/'
 baseurl: ''
 
 author:
-  name: 'Krista Vanderhorst'
+  name: 'Krista Boone'
   email: kvandsoftware@gmail.com
-  github_username: kristavan
+  github_username: kristaboone
 
 defaults:
   -
