@@ -6,9 +6,9 @@ tags: programming javascript
 
 Wordle- the latest internet craze that gives you the chance to compete with your friends to test your literary chops.
 My friends and I like to share our daily Wordle scores in a Discord channel, and someone got the idea to hide our guesses in spoiler text so that we
-could see the struggle (or epicness) of the guessing journey to find the correct 5-letter word of the day.
+could see the struggle (or 'epic-ness') of the guessing journey to find the correct 5-letter word of the day.
 
-The process became a big tedious- click the share button on Wordle's website, paste into the Discord channel, go back to the website, edit each line
+The process became a bit tedious- click the share button on Wordle's website, paste into the Discord channel, go back to the website, edit each line
 of emojis to have your guess, get the formatting right, etc.
 
 As a programmer, I abhor tedious work that can be easily automated. And so, Discord Export for Wordle was born!
